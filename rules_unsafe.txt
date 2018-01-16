@@ -1,6 +1,3 @@
-* twitter.com * block
-* facebook.com * block
-* facebook.net * block
 * disqus.com * block
 * disquscdn.com * block
 * vk.com * block

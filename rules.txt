@@ -10,6 +10,7 @@
 * jivosite.com * block
 * livefyre.com * block
 * phonet.com.ua * block
+* segment.com * block
 * vk.com * block
 * windows.net * block
 * yastatic.net * block

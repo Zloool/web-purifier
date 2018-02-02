@@ -25,3 +25,9 @@ dmca.com dmca.com * noop
 kwejk.pl * inline-script block
 twitter.com twitter.com * noop
 www.facebook.com facebook.com * noop
+* carrotquest.io * block
+* convead.io * block
+* lightwidget.com * block
+* retailcrm.pro * block
+* retailcrm.ru * block
+* roistat.com * block

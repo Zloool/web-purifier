@@ -31,3 +31,4 @@ www.facebook.com facebook.com * noop
 * retailcrm.pro * block
 * retailcrm.ru * block
 * roistat.com * block
+* fortifi.io * block
